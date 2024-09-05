@@ -71,7 +71,9 @@ Model performance was evaluated based on:
 The model is deployed using Gradio for easy interaction. To run the deployment locally:
 
 1. Ensure you have required libraries installed: `pip install gradio pickle pandas`
-2. Run the deployment script: `python deploy.py`
+2. Open final_project.ipynb in Jupyter Notebook.
+3. Run all cells to reproduce the analysis and model training.
+4. Use the Gradio app for real-time predictions.
 3. Open the provided local URL in your web browser to interact with the model.
 
 **Gradio Interface**
@@ -80,7 +82,7 @@ The model is deployed using Gradio for easy interaction. To run the deployment l
 
 ## Usage
 
-1. Open Asteroid_Hazard_Prediction.ipynb in Jupyter Notebook.
+1. Open final_project.ipynb in Jupyter Notebook.
 2. Run all cells to reproduce the analysis and model training.
 3. Use the Gradio app for real-time predictions.
 
