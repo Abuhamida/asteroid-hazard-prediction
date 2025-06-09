@@ -78,7 +78,7 @@ The model is deployed using Gradio for easy interaction. To run the deployment l
 
 **Gradio Interface**
 
-![Gradio Interface](images/deploy_image.png)
+![Gradio Interface](https://raw.githubusercontent.com/Abuhamida/asteroid-hazard-prediction/images/deploy_image.png)
 
 ## Usage
 
