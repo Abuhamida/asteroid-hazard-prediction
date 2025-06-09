@@ -96,6 +96,6 @@ Contributions to this project are welcome. Please follow these steps:
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
 
-## License
+## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
